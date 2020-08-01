@@ -10,7 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-            <a href="mailto:worldglobalexpressx6@yahoo.com">worldglobalexpressx6@yahoo.com</a>
+            <a href="mailto:support@globahomeshippingservice.com">support@globahomeshippingservice.com</a>
           <h6>You can also contact us at</h6>
           <p>Dubia Creek, AI Seef District</p>
         </div>
@@ -38,7 +38,7 @@
       <br />
       <hr />
       <small
-        >&copy; All right reserved. World Global Express. 2020.</small
+        >&copy; All right reserved. Global Home Shipping Service. 2020.</small
       >
     </div>
   </footer>

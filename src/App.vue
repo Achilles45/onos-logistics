@@ -1,6 +1,8 @@
 <template>
   <div id="app">
+    <transition name="animate" enter-active-class="animate__animated animate__slideInLeft" leave-active-class="animate__animated animate__slideInRight">
     <router-view/>
+    </transition>
   </div>
 </template>
 
