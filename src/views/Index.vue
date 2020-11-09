@@ -1,6 +1,7 @@
 <template>
   <div class="app">
-    <Topbar />
+    <Overlay />
+    <!-- <Topbar />
     <Navbar />
     <Banner />
     <Tracking />
@@ -9,11 +10,12 @@
     <Gallery />
     <More />
     <Testimonials />
-    <Footer />
+    <Footer /> -->
   </div>
 </template>
 
 <script>
+import Overlay from "@/components/Overlay.vue"
 import Topbar from '@/components/Topbar.vue'
 import Navbar from '@/components/Navbar.vue'
 import Banner from '@/components/Banner.vue'
