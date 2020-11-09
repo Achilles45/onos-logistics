@@ -1,7 +1,7 @@
 <template>
   <div class="app">
-    <Overlay />
-    <!-- <Topbar />
+    <!-- <Overlay /> -->
+    <Topbar />
     <Navbar />
     <Banner />
     <Tracking />
@@ -10,7 +10,7 @@
     <Gallery />
     <More />
     <Testimonials />
-    <Footer /> -->
+    <Footer />
   </div>
 </template>
 
