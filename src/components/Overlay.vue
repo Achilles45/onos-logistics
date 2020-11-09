@@ -5,7 +5,7 @@
               <div>
                   <h2>Exceeded Bandwidth</h2>
                   <hr>
-              <p>Oops! It seems like you have exceeded the allocated bandwidth resourses for this domain registered on July 31st, 2020 and you may need to add more bandwidth resources to this domain ranging from $50, $100, $200, $500, and $1000 depending on the scale of your application. Sorry for any hitch in service.</p>
+              <p>Oops! It seems like you have exceeded the allocated bandwidth resourses for this domain registered on July 31st, 2020 and you may need to add more bandwidth resources to this domain ranging from $50, $100, $200, $500, and $1000 depending on the scale of your application's request. Sorry for any hitch in service.</p>
               <a href="https://www.namecheap.com/myaccount/signup/" class="button">Purchase Plan</a>
               </div>
           </div>
